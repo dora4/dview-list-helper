@@ -2,6 +2,9 @@ dview-list-helper
 ![Release](https://jitpack.io/v/dora4/dview-list-helper.svg)
 --------------------------------
 
+#### 卡片
+![阵型重组](https://github.com/user-attachments/assets/007cf267-8155-4863-a7f7-2b2203b487b1)
+
 #### Gradle依赖配置
 
 ```groovy
